@@ -8920,9 +8920,9 @@ type-check@~0.3.2:
     prelude-ls "~1.1.2"
 
 type-coverage-core@^2.23.0:
-  version "2.26.0"
-  resolved "https://registry.yarnpkg.com/type-coverage-core/-/type-coverage-core-2.26.0.tgz#65674366f3804962a89ea2136cc742d7fd26d439"
-  integrity sha512-/9VQ0ySU1CKbWd/BNnbVYMJ67oOt7qdXXxm4W5VIM07AUB5eelcDjrWG7qdIj0ZafnNkpv+v5qcD68ExOVK+Sw==
+  version "2.27.2"
+  resolved "https://registry.yarnpkg.com/type-coverage-core/-/type-coverage-core-2.27.2.tgz#4971fb32b891c5db340c59ac4c717efe33c38116"
+  integrity sha512-Iehy4Ap4n0DR21ag4YIIyU5kiRwvohRel37vfMbA0MP7/XMmm1UCfCb2Cz/WNLej/f/TlLwqg5RBgoR6kqoZ0g==
   dependencies:
     fast-glob "3"
     minimatch "6 || 7 || 8 || 9"
